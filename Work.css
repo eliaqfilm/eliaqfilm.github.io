@@ -19,7 +19,7 @@
 #Work {
 	position: absolute;
 	width: 1000px;
-	height: 1529px;
+	height: 2196px;
 	background-color: rgba(255,255,255,1);
 	overflow: visible;
 	--web-view-name: Work;
@@ -151,7 +151,7 @@
 #Raggruppa_1_bc {
 	position: absolute;
 	width: 1000px;
-	height: 891px;
+	height: 1558px;
 	left: 0px;
 	top: 638px;
 	overflow: visible;
@@ -164,7 +164,7 @@
 	position: absolute;
 	overflow: visible;
 	width: 1000px;
-	height: 891px;
+	height: 1558px;
 	left: 0px;
 	top: 0px;
 }
@@ -177,11 +177,11 @@
 	width: 176px;
 	height: 68px;
 	left: 428px;
-	top: 724px;
+	top: 1391px;
 }
 #CONTACT_bf {
 	left: 450px;
-	top: 736px;
+	top: 1403px;
 	position: absolute;
 	overflow: visible;
 	width: 134px;
@@ -202,7 +202,7 @@
 	width: 726px;
 	height: 1px;
 	left: 137px;
-	top: 843.5px;
+	top: 1510.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Rettangolo_6 {
@@ -214,5 +214,16 @@
 	height: 552px;
 	left: 34px;
 	top: 58px;
+	overflow: visible;
+}
+#Rettangolo_9 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 840px;
+	height: 552px;
+	left: 34px;
+	top: 610px;
 	overflow: visible;
 }
